@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Gosavi</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyagosavi811" alt="shreyagosavi811" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=shreyagosavi811" alt="shreyagosavi811" /></a> </p>
 
 - 🔭 I’m currently working on **Explore India**
 

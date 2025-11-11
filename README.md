@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shreya Gosavi</h1>
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=shreyagosavi811" alt="shreyagosavi811" /></a> </p>
+
+---
+
 
 - 🔭 I’m currently working on **Explore India**
 
 - 🌱 I’m currently learning **AI,ML**
 
 - 📫 How to reach me **shreyagosavi563@gmail.com**
+  
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
